@@ -1,0 +1,42 @@
+.todo-list{
+  padding: 15px;
+  background: white;
+  width: 70%;
+  border-radius: 5px;
+  list-style: none;
+  margin-left: 0px;
+  border-left: 3px solid limegreen;
+  margin-top: 5px;
+}
+
+.del{
+  border-radius: 5px;
+  font-size: 16px;
+  box-shadow: 2px 2px 2px black;
+  cursor: pointer;
+}
+
+
+.thumb-up{
+  font-size: 13px;
+
+}
+
+.js-item{
+
+  font-size: 16px;
+}
+
+.category{
+  float: right;
+  font-size: 16px;
+}
+
+.item-strike{
+  text-decoration: line-through;
+
+}
+
+.marked{
+  color: green;
+}
